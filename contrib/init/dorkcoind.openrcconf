@@ -1,0 +1,33 @@
+# /etc/conf.d/dorkcoind: config file for /etc/init.d/dorkcoind
+
+# Config file location
+#BLACKMORED_CONFIGFILE="/etc/dorkcoin/dorkcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BLACKMORED_USER)
+#BLACKMORED_PIDDIR="/var/run/dorkcoind"
+
+# What filename to give the pidfile
+#BLACKMORED_PIDFILE="${BLACKMORED_PIDDIR}/dorkcoind.pid"
+
+# Where to write dorkcoind data (be mindful that the blockchain is large)
+#BLACKMORED_DATADIR="/var/lib/dorkcoind"
+
+# User and group to own dorkcoind process
+#BLACKMORED_USER="dorkcoin"
+#BLACKMORED_GROUP="dorkcoin"
+
+# Path to dorkcoind executable
+#BLACKMORED_BIN="/usr/bin/dorkcoind"
+
+# Nice value to run dorkcoind under
+#BLACKMORED_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BLACKMORED_OPTS=""
+
+# The timeout in seconds OpenRC will wait for dorkcoind to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BLACKMORED_SIGTERM_TIMEOUT=600
