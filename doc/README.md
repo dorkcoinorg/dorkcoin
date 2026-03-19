@@ -28,8 +28,8 @@ Drag Dorkcoin.app to your applications folder, and then run Dork Core.
 
 ### Need Help?
 
-* Join comunity on [Discord server](https://discord.gg/CdRSPcnrvM).
-* Ask for help on the BitcoinTalk in the [Dorkcoin Topic](https://bitcointalk.org/).
+* Join comunity on [Discord server](https://discord.gg/jZYyJkzeWz).
+* Ask for help on the BitcoinTalk in the [Dorkcoin Topic](https://bitcointalk.org/index.php?topic=5577864).
 
 Building
 ---------------------
@@ -60,8 +60,8 @@ The Dorkcoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Join comunity on [Discord server](https://discord.gg/CdRSPcnrvM).
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/), in the [Dorkcoin topic](https://bitcointalk.org/).
+* Join comunity on [Discord server](https://discord.gg/jZYyJkzeWz).
+* Ask for help on the BitcoinTalk in the [Dorkcoin Topic](https://bitcointalk.org/index.php?topic=5577864).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
