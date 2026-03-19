@@ -494,7 +494,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/dorkcore/dorkcoin>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/dorkcoinorg/dorkcoin>";
     const std::string URL_WEBSITE = "<https://dorkcoin.org/>";
     // todo: remove urls from translations on next change
 
