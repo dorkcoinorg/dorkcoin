@@ -158,7 +158,7 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x000007e104c49bac76127806f96d50f2510fe42c0c47126d511cea785248c1ef"));
         assert(genesis.hashMerkleRoot == uint256S("0x75bc1a80e13213ada9e18dac132c3c8d3c03ff3d1bcc7aec73f5f35155b8518a"));
 
-        vSeeds.push_back(CDNSSeedData("170.75.161.131", "170.75.161.131"));
+        vSeeds.push_back(CDNSSeedData("explorer.dorkcoin.org", "213.181.99.70"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,30);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,31);
